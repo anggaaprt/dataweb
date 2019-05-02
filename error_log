@@ -1,0 +1,8 @@
+[02-Apr-2018 05:13:16 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home1/excellent/public_html/demo/websitegroup/iman/template_2/application/controllers/MenuSegment.php on line 11
+[02-Apr-2018 06:21:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/excellent/public_html/demo/websitegroup/iman/template_2/application/controllers/Menu.php on line 1100
+[02-Apr-2018 22:05:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/excellent/public_html/demo/websitegroup/iman/template_2/application/controllers/Menu.php on line 370
+[02-Apr-2018 22:11:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/excellent/public_html/demo/websitegroup/iman/template_2/application/controllers/Menu.php on line 370
+[02-Apr-2018 22:11:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/excellent/public_html/demo/websitegroup/iman/template_2/application/controllers/Menu.php on line 370
+[02-Apr-2018 22:25:49 America/Chicago] PHP Parse error:  syntax error, unexpected ''tgl' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home1/excellent/public_html/demo/websitegroup/iman/template_2/application/controllers/Menu.php on line 721
+[02-Apr-2018 22:55:56 America/Chicago] PHP Parse error:  syntax error, unexpected ''tgl' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home1/excellent/public_html/demo/websitegroup/iman/template_2/application/controllers/Menu.php on line 721
+[02-Apr-2018 22:57:26 America/Chicago] PHP Parse error:  syntax error, unexpected ''T' (T_ENCAPSED_AND_WHITESPACE) in /home1/excellent/public_html/demo/websitegroup/iman/template_2/application/controllers/Menu.php on line 1098
